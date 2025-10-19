@@ -13,7 +13,7 @@ Line Follower — Bang‑Bang Controller (with GUI protocol)
 • Deadband: (0..255)
 • Turn boost: (0..255)
 
-Pins assignment:
+Pin assignment:
   LEFT  DAC bus: 9,8,7,6,5,4,3,2
   RIGHT DAC bus: A2,A3,A4,A5,A1,A0,11,10
   Sensors: LEFT=A7, RIGHT=A6
